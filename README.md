@@ -55,6 +55,8 @@ This project analyzes telecom customer data to understand:
 * `dataset.csv` *(optional)* → Source data
 
 ---
+## 🌐 Live Dashboard
+[View Interactive Power BI Dashboard](https://app.powerbi.com/links/PNDIJZ0mUJ?ctid=27282fdd-4c0b-4dfb-ba91-228cd83fdf71&pbi_source=linkShare)
 
 ## 💡 What This Project Demonstrates
 
