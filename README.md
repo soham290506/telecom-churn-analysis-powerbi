@@ -13,7 +13,12 @@ This project analyzes telecom customer data to understand:
 * How contract type, payment method, and services impact retention
 
 ---
+## 📂 Dataset
+- Source: Telecom Customer Dataset  
+- Format: CSV  
+- Records: ~7,000 customers  
 
+[📥 Download Dataset](WA_Fn-UseC_-Telco-Customer-Churn.csv)
 ## 📸 Dashboard Preview
 
 ![Dashboard](dashboard_preview.png)
